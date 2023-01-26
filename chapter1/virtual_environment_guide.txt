@@ -1,0 +1,6 @@
+apt-get install python3-venv
+
+python3 -m venv <virtual environment name>
+source <virtual environment name>/bin/activate
+
+To exit use 'deactive' command directly in the terminal
